@@ -1,0 +1,43 @@
+Testing Plan For Project 2: Shell
+
+I used to test this commands on my program, my, mac, on temple server.
+
+1) For Built-in commands:
+
+Test executing simple commands, like pwd, help, wait, cd, exit.
+
+2) Program execution with Full Path
+
+Tested following:
+
+usr/bin/wc main.c
+
+Without Full Path and to test Environment Variables
+echo $PATH
+echo $Shell
+
+
+
+3) Redirection test
+
+ls > output.txt
+cat output.txt
+wc < input.txt
+cat input.txt
+wc < input.txt > output.txt
+
+
+4) Pipes Testing
+
+ls | grep output.txt | wc
+
+5) Background process
+
+echo Hello | wc &
+sleep 10 &
+
+
+
+
+
+
