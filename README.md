@@ -1,4 +1,4 @@
-# Shell---similar-to-tsch-shell
+Shell---similar-to-tsch-shell
 
 Designing a shell similar to the tcsh shell requires implementing a variety of features, including basic command execution, built-in commands, parsing, path resolution, input/output redirection, pipes, and job control. My flow of doing things was same as it was given to us in assignment. Here is the design plan for my shell:
 
