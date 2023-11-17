@@ -1,4 +1,13 @@
-Shell---similar-to-tsch-shell
+Shell (Similar to tsch)
+
+Built-in Features:
+- help and exit
+- pwd
+- cd
+- PATH environment variable
+- redirection of stdout and stdin
+
+
 
 Designing a shell similar to the tcsh shell requires implementing a variety of features, including basic command execution, built-in commands, parsing, path resolution, input/output redirection, pipes, and job control. My flow of doing things was same as it was given to us in assignment. Here is the design plan for my shell:
 
