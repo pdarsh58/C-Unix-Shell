@@ -1,6 +1,6 @@
 Shell (Similar to tsch)
 
-Features:
+## Features:
 
 - help and exit built-in
 - pwd
