@@ -1,11 +1,15 @@
 Shell (Similar to tsch)
 
-Built-in Features:
-- help and exit
+Features:
+
+- help and exit built-in
 - pwd
 - cd
 - PATH environment variable
-- redirection of stdout and stdin
+- Redirection of stdout and stdin
+- Commandline processing of redirection of stdin and stdout
+- Indefinite pipe commands on one commandline
+- Built-in wait built-in
 
 
 
